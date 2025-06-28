@@ -1,0 +1,52 @@
+[metadata]
+name        = JP+ MONSTER HUNTER MUSIC
+shortname   = THRV
+version     = 20th
+description.ja_JP = モンスターハンター 音楽 【OPENTTD】
+description.ja_JP = OpenTTD 用の OpenMSX 音楽セット。GPL v2 に基づいて自由に利用できます。完全なクレジットは "readme.txt" を参照してください。 [OpenMSX 0.4.2]
+description = Monster Hunter Music
+
+[files]
+theme = 0-1 Monster Hunter Portable 2nd G.mid
+old_0 = 1-01. Monster Hunter 3 (Tri).mid
+old_1 = 2-01._Bonding_Winds_(Monster_Hunter_Stories_2_Version).mid
+old_2 = 3-01._Monster_Hunter_Stories.mid
+new_0 = 4-01 Main Theme - Stars at Our Backs.mid
+new_1 = 5-01 Monster Hunter.mid
+new_2 = 6-01 Golden Mane - Rajang World Version.mid
+old_0 = 7-02 - Rise of a New Hunter.mid
+old_1 = 8-01. A Bewitching Dance - Mizutsune - Piano Version.mid
+old_2 = 9-01. Kamura's Song of Purification (Hinoa).mid
+ezy_0 = A-01 Monster Hunter.mid
+ezy_1 = W-01 Monster Hunter 2 (Dos).mid
+
+[md5s]
+0-1 Monster Hunter Portable 2nd G.mid = 22EC3828D56902D3860DE508DA7EE6FC
+1-01. Monster Hunter 3 (Tri).mid = 6E3556150314E87C062DC06E4325F9DB
+2-01._Bonding_Winds_(Monster_Hunter_Stories_2_Version).mid = 76D23A6E0ED9833F55A080EF455621B6
+3-01._Monster_Hunter_Stories.mid = 9CA1C0DD21BD4DDD6911FF85B37D11CC
+4-01 Main Theme - Stars at Our Backs.mid = BA9E6E2E6CD69F1A01EE125B891B92FB
+5-01 Monster Hunter.mid = D62D33F804C220910196337656B49EAB
+6-01 Golden Mane - Rajang World Version.mid = 69C996A9163213369BF00E5250EB64AF
+7-02 - Rise of a New Hunter.mid = F87DC5119B01C51563F0A7CD959C8E72
+8-01. A Bewitching Dance - Mizutsune - Piano Version.mid = 2EEE62D5056A4B28DE322DF861CC071C
+9-01. Kamura's Song of Purification (Hinoa).mid = D9CEF21316442D5D2C754AFD9B2E86D0
+A-01 Monster Hunter.mid = BC200EC46A9B2F2E5988E6BFF3FC38EC
+W-01 Monster Hunter 2 (Dos).mid = 5DC56BE565B7CC127F92A3A7F5D89C06
+
+[names]
+0-1 Monster Hunter Portable 2nd G.mid = A Dream that is more Scarlet than Red
+1-01. Monster Hunter 3 (Tri).mid = Tomboyish Girl in Love
+2-01._Bonding_Winds_(Monster_Hunter_Stories_2_Version).mid = Shanghai Scarlet Teahouse ~ Chinese Tea
+3-01._Monster_Hunter_Stories.mid = Voile, the Magic Library
+4-01 Main Theme - Stars at Our Backs.mid = Locked Girl ~ The Girl's Secret Room
+5-01 Monster Hunter.mid = Lunar Clock ~ Luna Dial
+6-01 Golden Mane - Rajang World Version.mid = The Young Descendant of Tepes
+7-02 - Rise of a New Hunter.mid = Septette for a Dead Princess
+8-01. A Bewitching Dance - Mizutsune - Piano Version.mid = The Centennial Festival for Magical Girls
+9-01. Kamura's Song of Purification (Hinoa).mid = U.N. Owen was Her?
+A-01 Monster Hunter.mid = Scarlet Tower ~ Eastern Dream...
+W-01 Monster Hunter 2 (Dos).mid = Ghostly Dream ~ Snow or Cherry Petal
+
+[origin]
+default = Touhou
